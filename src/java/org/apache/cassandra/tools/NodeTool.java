@@ -123,6 +123,7 @@ public class NodeTool
                 EnableHandoff.class,
                 EnableFullQueryLog.class,
                 DisableFullQueryLog.class,
+                ExpireSnapshots.class,
                 GcStats.class,
                 GetBatchlogReplayTrottle.class,
                 GetCompactionThreshold.class,
